@@ -1,3 +1,5 @@
+![promethues-steps-feature-image-new](https://github.com/user-attachments/assets/20538513-9a3e-469a-b92a-d244cd1dafbe)
+
 # Prometheus Installation Script for Linux
 
 Prometheus Installation Script will install Prometheus on the linux server automatically whichever version you want. This script will also create the service (systemd) script as well. This script will help you running prometheus on the custom IP Address/Domain/URL, custom PORT, SSL, and HTTPS
