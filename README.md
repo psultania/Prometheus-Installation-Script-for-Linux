@@ -1,5 +1,4 @@
-
-![promethues-steps-feature-image-new](https://github.com/user-attachments/assets/77796c81-d445-492f-a8e8-d6e3058afa72)
+<div align="center">![promethues-steps-feature-image-new](https://github.com/user-attachments/assets/77796c81-d445-492f-a8e8-d6e3058afa72)</div>
 
 # Prometheus Installation Script for Linux
 
